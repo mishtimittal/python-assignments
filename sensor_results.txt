@@ -1,0 +1,9 @@
+=== Sensor Data Results ===
+
+Temperature -> Avg: 24.99, Min: 6.16, Max: 44.23
+Distance -> Avg: 124.47, Min: 50.01, Max: 199.99
+Battery -> Avg: 55.31, Min: 10.03, Max: 100.00
+Humidity -> Avg: 49.64, Min: 20.01, Max: 80.00
+
+Time of highest temperature: 01-09-2025 13:48
+Battery below 30% count: 2215
